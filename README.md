@@ -1,1 +1,1 @@
-# A-star-search-algorithm
+# A<sup>*</sup> Search Algorithm
