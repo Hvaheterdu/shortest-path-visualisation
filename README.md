@@ -1,10 +1,23 @@
-# A<sup>*</sup> Search Algorithm
+# Shortest path visualisation
 
-A visualisation of A<sup>*</sup> search algorithm written in C++ with QT6 as GUI.
+A visualisation of different shortest path algorithms written in C++ with QT6 as GUI.
 
-## Example
+The supported algorithms are
 
-A board is created in the GUI, where you can create a start target, destination target and boundaries/walls as blockades. The algorithm will visualise how it searches the area and finds the shortest path from the start target to the destination target while avoiding blockades.
+1. A<sup>*</sup> search algorithm
+2. B<sup>*</sup>
+3. Bellman-Ford algorithm
+4. Breadth-first search
+5. Depth-first search
+6. Dijkstra's algorithm
+7. Floyd–Warshall algorithm
+8. Johnson's Algorithm
+9. Lifelong Planning A<sup>*></sup>
 
 ## How to run
 
+Something darkside
+
+## Example
+
+Something absolute
