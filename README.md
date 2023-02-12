@@ -12,7 +12,7 @@ The supported algorithms are
 6. Dijkstra's algorithm
 7. Floyd–Warshall algorithm
 8. Johnson's Algorithm
-9. Lifelong Planning A<sup>*></sup>
+9. Lifelong Planning A<sup>*</sup>
 
 ## How to run
 
